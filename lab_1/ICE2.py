@@ -1,0 +1,5 @@
+width = input("Enter Width:")
+height = input("Enter Height:")
+print ("The area of the rectangle is " + str(float(width) * float(height)))
+print ("The perimeter of the rectangle is " + str(2 * float(width) + 2 * float(height)))
+print ("The diagonal is " + str((float(width) ** 2 + float(height) ** 2) ** 0.5))
