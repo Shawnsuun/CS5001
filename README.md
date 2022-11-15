@@ -16,3 +16,9 @@ http://docs.google.com/document/d/1okOsEHyE_QCiWJxLePvl2sG67niHRuIGmZmba9LCHyo/e
 
 Lab 5: Playing with a Text File
 http://docs.google.com/document/d/1ZjJ3LB-OGbVs79dGOGTvAqIYS4MxdUteLnst4UuqppQ/edit
+
+Lab 6: Warhol Art Generator
+https://docs.google.com/document/d/1YJb2Lp9Bd0SyDfaBAicCiy6JHUvCRfW8YoFVVoR2VCU/edit
+
+Lab 7: Recursive Turtle
+https://docs.google.com/document/d/1xw3E55JVSxYdNfdEQqKBlHJUzxqZkiyUm1nXd68S7kg/edit
