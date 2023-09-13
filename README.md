@@ -29,7 +29,4 @@ https://docs.google.com/document/d/1-bArrwlgil1F7FyD9OsdRUb6eCVa3VMnNpsZdDLDc0w/
 Lab 9: Epic Battle Simulator: Welcome to Thuderdome
 https://docs.google.com/document/d/1v2UW2Wb66j-hvohHYY-OiUykEyRFvW-tbntPb2XI5_U/edit
 
-Lab 10: Postfix and Infix
-https://docs.google.com/document/d/1DObXCiWdNP--8cJxPOlS1GWtwZvFYtk7xH-__pELo5I/edit
-
 
